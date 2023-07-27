@@ -1,3 +1,1 @@
-learningpool.com : issuer=C = US, O = "Cloudflare, Inc.", CN = Cloudflare Inc ECC CA-3
-warrington.learningpool.com : issuer=C = US, O = DigiCert Inc, CN = DigiCert TLS RSA SHA256 2020 CA1
-www.google.com : issuer=C = US, O = Google Trust Services LLC, CN = GTS CA 1C3
+#Output of script goes here
